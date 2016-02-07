@@ -1,4 +1,4 @@
-# vue-pouch
+# vue-pouch-example
 
 Vue.js + PouchDB
 
