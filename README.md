@@ -1,20 +1,20 @@
-# vue-pouch-example
+# Vue Pouch Example
 
 Vue.js + PouchDB
 
 ## Build Setup
 
-``` bash
-# install dependencies
+```bash
+# Install dependencies
 npm install
 
-# install PouchDB Server
+# Install PouchDB Server
 
 npm install -g pouchdb-server
 
-# serve PouchDB at localhost:5984
+# Run PouchDB
 pouchdb-server --port 5984
 
-# serve app with hot reload at localhost:8080
+# Run app
 npm run dev
 ```
