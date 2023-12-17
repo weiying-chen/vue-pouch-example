@@ -1,6 +1,6 @@
 # Vue Pouch Example
 
-Vue.js + PouchDB
+Vue + PouchDB
 
 ## Build Setup
 
