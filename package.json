@@ -1,6 +1,6 @@
 {
-  "name": "vue-express",
-  "description": "A Vue.js project",
+  "name": "vue-pouch-example",
+  "description": "Vue + PouchDB",
   "author": "Alexandro Chen <alexandrochen.com@gmail.com>",
   "private": true,
   "scripts": {
